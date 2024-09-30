@@ -60,4 +60,8 @@ We considered the following ethical implications during the development process:
 - Explore real-time fire detection and integrate the model into a monitoring system for rapid response.
 - Further development of wildfire detection models could focus on predicting the spread of fires using geospatial data to enable better emergency response planning and resource allocation.
 - We also aim to address algorithmic bias by collecting more diverse datasets from various global environments.
+
+## Contributors
+
+Collaborated in a team of 5 as part of AI4ALL Ignite Accelerator.
   
